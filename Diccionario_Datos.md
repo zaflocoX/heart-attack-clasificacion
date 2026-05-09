@@ -1,8 +1,11 @@
 # Diccionario de Datos - Heart Attack Dataset
 
 **Fuente:** https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid
-**Extraido de: ** https://data.mendeley.com/datasets/wmhctcrt5v/1/files/959a4949-b1c2-4858-b361-2602bb60a07a
+
+**Extraido de:** https://data.mendeley.com/datasets/wmhctcrt5v/1/files/959a4949-b1c2-4858-b361-2602bb60a07a
+
 **Especificidad** una fila = un paciente
+
 **total de filas:** 1309
 
 ---
